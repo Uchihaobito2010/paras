@@ -1,7 +1,11 @@
-# paras
+# parasfont
 
-Fancy bold text formatter for Python.
+A simple Python module to print text in bold Unicode font.
 
 ## Install
-```bash
-pip install paras
+pip install parasfont
+
+## Usage
+```python
+import parasfont
+parasfont.print("Hello World")
